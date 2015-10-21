@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servidor>
+  <instancia>SWNB\SQL</instancia>
+  <basedados>LABRANDERY</basedados>
+  <utilizador>sa</utilizador>
+  <password>Ra010399</password>
+  <licenca> </licenca>
+</Servidor>

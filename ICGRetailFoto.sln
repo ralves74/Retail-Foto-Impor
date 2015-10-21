@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40302.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ICGRetailFoto", "ICGRetailFoto\ICGRetailFoto.csproj", "{A01AD985-54A4-4FB1-80E2-8B29F2F630D8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D6B51DCC-45B3-46D2-BFA6-CC25F351404C}"
+	ProjectSection(SolutionItems) = preProject
+		ICGRetailFoto\bin\Debug\Config.xml = ICGRetailFoto\bin\Debug\Config.xml
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{1AE6BA16-9418-44A2-A75D-24DBDD264222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A01AD985-54A4-4FB1-80E2-8B29F2F630D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A01AD985-54A4-4FB1-80E2-8B29F2F630D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A01AD985-54A4-4FB1-80E2-8B29F2F630D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A01AD985-54A4-4FB1-80E2-8B29F2F630D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AE6BA16-9418-44A2-A75D-24DBDD264222}.Debug|Any CPU.ActiveCfg = Debug
+		{1AE6BA16-9418-44A2-A75D-24DBDD264222}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

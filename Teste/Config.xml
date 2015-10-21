@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Servidor>
+  <caminho>C:\projetos\ICGRetailFoto\Teste\config.xml</caminho>
+  <instancia>SWNB\SQL1</instancia>
+  <basedados>LABRANDERY1</basedados>
+  <utilizador>sa1</utilizador>
+  <password>Ra0103991</password>
+</Servidor>
